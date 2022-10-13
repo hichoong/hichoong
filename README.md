@@ -1,7 +1,4 @@
 ### 안녕하세요. 👋
-지금은 그저 낙서장같은 깃허브지만 조금씩 다듬고 정리하면서 
-지금의 낙서장이 전공서적처럼 전문지식을 담을 수 있도록
-노력하고 증진하도록 하겠습니다.
 
 <!--
 **hichoong/hichoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

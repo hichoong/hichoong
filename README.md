@@ -1,4 +1,4 @@
-### 안녕하세요. 신입 웹개발자를 꿈꾸는 김충희입니다.👋
+### 안녕하세요. 김충희입니다.👋
 
 <!--
 **hichoong/hichoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
